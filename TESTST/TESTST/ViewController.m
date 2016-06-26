@@ -16,7 +16,11 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+<<<<<<< Updated upstream
     self.view.backgroundColor = [UIColor redColor];
+=======
+    self.view.backgroundColor = [UIColor whiteColor];
+>>>>>>> Stashed changes
     // Do any additional setup after loading the view, typically from a nib.
 }
 
